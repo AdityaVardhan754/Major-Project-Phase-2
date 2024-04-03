@@ -1,0 +1,14 @@
+This section showcases our project's functionality through a series of steps.
+
+Note: Make sure that you have installed python and necessary libraries related to the code. 
+
+Executing the Application:
+1. Launch the Command Prompt as Administrative.
+2. Navigate to the Project Directory: This step instructs the program on location of the necessary files.
+3. Run the File amlyproteinl1.py: Executing this file initiates the application.
+
+Upon program execution, the "Amyloid Proteins Prediction Tool" window launches. This interface comprises four distinct modules:
+•Gradient Boosting Accuracy: This section displays the model's overall accuracy in predicting amyloid protein level.
+•Gradient Boosting Prediction: This module showcases the model's predicted amyloid protein levels of user.
+•Neural Network Accuracy: This section presents the accuracy of the neural network model in predicting amyloid protein levels.
+•Neural Network Prediction: This module displays the neural network model's predicted amyloid protein levels of user.
